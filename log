@@ -10,3 +10,9 @@ vi., 21 de mar. de 2025 20:19:09:
  tests:  3|2
 total_score: 40/70
 8e6a3f2
+vi., 21 de mar. de 2025 20:22:17: 
+ exercises.c | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+ tests:  4|1
+total_score: 50/70
+ef32470
