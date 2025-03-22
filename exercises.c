@@ -143,7 +143,8 @@ int parentesisBalanceados(char *cadena) {
       pop(pila);
    }
    }
-   if(get_size(pila)==0){
+   if(get_size(pila)==0)
+   {
    free(pila);
    return 1;}
    else {
