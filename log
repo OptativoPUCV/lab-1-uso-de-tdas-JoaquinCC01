@@ -22,3 +22,9 @@ vi., 21 de mar. de 2025 20:24:30:
  tests:  5|1
 total_score: 50/70
 0c63b29
+vi., 21 de mar. de 2025 21:01:55: 
+ exercises.c | 27 ++++++++++++++++++++++++++-
+ 1 file changed, 26 insertions(+), 1 deletion(-)
+ tests:  7|1
+total_score: 60/70
+ead2023
